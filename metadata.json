@@ -1,0 +1,7 @@
+{
+  "name": "Daily Lux (A Favorita)",
+  "description": "Sofisticação em cada detalhe do seu dia.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
